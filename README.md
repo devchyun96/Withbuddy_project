@@ -12,5 +12,4 @@
   + 매칭은 지도에서 구를 선택하여 나오는 리스트에서 각 프로필에 들어가 매칭하기를 선택하면 가능 <br/>
   + 매칭 요청까지 구현 
 
-
-![T4F1 수행 결과서](https://github.com/devchyun96/WithBuddy/assets/74132326/0d19d293-bb41-4c58-9c37-c1d0d80afa02)
+![TF41](https://github.com/devchyun96/Withbuddy_project/assets/74132326/731b9b50-9a7d-40c8-b012-a7cc9998b626)
