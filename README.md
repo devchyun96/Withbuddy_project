@@ -18,6 +18,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/myBatis-4479A1?logo=mysql&logoColor=white">
   <br/>
   
 ## 나의 part
