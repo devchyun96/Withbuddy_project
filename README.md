@@ -23,3 +23,7 @@
 |sendTo|외부 브로커가 /topic/chat/{roomId} 로 메시지를 전달|/topic/chat/{roomId}|roomId|
 |POST|채팅방의 채팅 리스트|/api/chatList|userId,loginId|
 |POST|나랑 매칭한 유저리스트|/api/dmList|loginId|
+|POST|버튼을 누르면 매칭하기|/api/match|senderId,receiverId|
+|PUT|서로 매칭 여부 업데이트|/api/matchUpdate|senderId,receiverId|
+|GET|유저가 받은 매칭|/api/alert/{userId}|userId|
+|DELETE|매칭거절|/api/matchDelete|senderId,receiverId|
