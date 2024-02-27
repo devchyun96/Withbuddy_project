@@ -11,10 +11,10 @@
 
 ## 사용한 기술
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-0769AD?logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Spring%20boot-6DB33F?logo=springboot&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20boot-6DB33F?logo=springboot&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/jquery-0769AD?logo=jquery&logoColor=white"><br/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/jquery-0769AD?logo=jquery&logoColor=white"><br/>
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
