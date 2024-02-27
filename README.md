@@ -4,9 +4,22 @@
 
 <br/>
 <br/>
+
 ## 기간
  2023.11.26~2023.12.26
 <br/>
+
+## 사용한 기술
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-0769AD?logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Spring%20boot-6DB33F?logo=springboot&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/jquery-0769AD?logo=jquery&logoColor=white"><br/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <br/>
+  
 ## 나의 part
   + 서울시의 산책 친구들을 매칭하여 1:1 채팅까지 🐶 <br/>
   + 채팅은 webscoket과 stomp를 사용하여 외부브로커에게 <br/>메시지를 전달하면 그 메시지가 구독한 채팅방에 뿌려지도록 <br/>
