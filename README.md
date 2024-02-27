@@ -13,4 +13,13 @@
   + 매칭은 지도에서 구를 선택하여 나오는 리스트에서 각 프로필에 들어가 매칭하기를 선택하면 가능 <br/> 매칭 요청까지 구현 <br/>
  
 
+## API
 
+|METHOD|내용|url|파라미터|
+|:---:|:---:|:---:|:---:|
+|POST|채팅방 생성|/chatroom/room|receiverId,senderId|
+|POST|채팅방 찾기|/chatroom/find|userId,loginId|
+|Message|외부브로커에게 채팅 전달|/home/chat/{roomId}|roomId|
+|sendTo|외부 브로커가 /topic/chat/{roomId} 로 메시지를 전달|/topic/chat/{roomId}|roomId|
+|POST|채팅방의 채팅 리스트|/api/chatList|userId,loginId|
+|POST|나랑 매칭한 유저리스트|/api/dmList|loginId|
